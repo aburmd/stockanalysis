@@ -21,3 +21,6 @@ using csv library, the existing csv file is opened for understanding.
 
 This is starting point for this project and all functions are executed through main module.
 
+3) pandas
+
+https://pandas.pydata.org/docs/user_guide/10min.html#operations
